@@ -1,0 +1,23 @@
+{
+  "name": "react-email",
+  "version": "1.0.0",
+  "keywords": ["node", "express", "react", "redux", "mongodb"],
+  "description": "My version of Stephen Grider's course Node with React: Fullstack Web Development (Udemy.com).​",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toth3max/node-react-email.git"
+  },
+  "author": "Max Nilsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toth3max/node-react-email/issues"
+  },
+  "homepage": "https://github.com/toth3max/node-react-email#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
