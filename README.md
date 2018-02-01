@@ -1,2 +1,2 @@
 # node-react-email
-Fullstack web app with NodeJS, React, Redux, Express, and MongoDB
+My version of Stephen Grider's course Node with React: Fullstack Web Development (Udemy.com).​
